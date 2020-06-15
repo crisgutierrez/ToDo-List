@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--   Main Activity     -->
+    <dimen name="task_list_margin_top">8dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <!--    Task Items     -->
+    <dimen name="task_item_padding">16dp</dimen>
+    <dimen name="task_item_margin">16dp</dimen>
+
+    <!--    Create Event    -->
+    <dimen name="create_task_label_margin">16dp</dimen>
+    <dimen name="create_task_edit_text_margin">16dp</dimen>
+    <dimen name="create_task_button_margin_top">32dp</dimen>
+</resources>

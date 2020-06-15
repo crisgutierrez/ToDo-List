@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MultiPlatform</string>
+
+    <!--    Create Event    -->
+    <string name="create_task_label">Whats need to be done?</string>
+    <string name="create_task_edit_text_hint">Enter Task Here</string>
+    <string name="create_task_button_text">Create</string>
+</resources>
